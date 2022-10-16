@@ -1,8 +1,0 @@
-C:\Users\iqbal\source\repos\Blog\Blog\bin\Debug\Blog.exe.config
-C:\Users\iqbal\source\repos\Blog\Blog\bin\Debug\Blog.exe
-C:\Users\iqbal\source\repos\Blog\Blog\bin\Debug\Blog.pdb
-C:\Users\iqbal\source\repos\Blog\Blog\obj\Debug\Blog.csproj.AssemblyReference.cache
-C:\Users\iqbal\source\repos\Blog\Blog\obj\Debug\Blog.csproj.SuggestedBindingRedirects.cache
-C:\Users\iqbal\source\repos\Blog\Blog\obj\Debug\Blog.csproj.CoreCompileInputs.cache
-C:\Users\iqbal\source\repos\Blog\Blog\obj\Debug\Blog.exe
-C:\Users\iqbal\source\repos\Blog\Blog\obj\Debug\Blog.pdb
