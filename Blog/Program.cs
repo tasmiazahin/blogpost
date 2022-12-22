@@ -106,7 +106,7 @@ namespace Blogg
                         }
                         if (knapp== false) //om det inte finns i bloggLista
                         {
-                            Console.WriteLine("Hittade inget blogginlägg");
+                            Console.WriteLine("Hittade Inget Blogginlägg");
                         }
                         break;
                     case 4:
@@ -133,7 +133,7 @@ namespace Blogg
                         break;
 
                     default:
-                        Console.WriteLine("Du måste välja  mellan menyval 1-4");
+                        Console.WriteLine("Du Måste Välja Mellan Menyval 1-4 ");
                         break;
                 }
 
